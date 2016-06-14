@@ -1,0 +1,70 @@
+{
+    "intents": [
+        {
+            "intent": "Beef",
+            "slots": [
+                {
+                    "name": "FirstBeef",
+                    "type": "Beef"
+                }
+            ]
+        },
+        {
+            "intent": "Poultry",
+            "slots": [
+                {
+                    "name": "FirstChicken",
+                    "type": "Chicken"
+                }
+            ]
+        },
+        {
+            "intent": "Grain",
+            "slots": [
+                {
+                    "name": "FirstGrain",
+                    "type": "Grain"
+                }
+            ]
+        },
+        {
+            "intent": "Shellfish",
+            "slots": [
+                {
+                    "name": "FirstShellfish",
+                    "type": "shellfish"
+                }
+            ]
+        },
+        {
+            "intent": "Grilled_vegtables",
+            "slots": [
+                {
+                    "name": "FirstGrilledvegtables",
+                    "type": "Grilled_Vegtables"
+                }
+            ]
+        },
+        {
+            "intent": "Pork",
+            "slots": [
+                {
+                    "name": "FirstPork",
+                    "type": "pork"
+                }
+            ]
+        },
+        {
+            "intent": "Cheese",
+            "slots": [
+
+            ]
+        },
+        {
+            "intent": "AMAZON.StopIntent",
+            "slots": [
+
+            ]
+        }
+    ]
+}
