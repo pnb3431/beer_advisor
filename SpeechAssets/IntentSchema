@@ -32,7 +32,7 @@
             "slots": [
                 {
                     "name": "FirstShellfish",
-                    "type": "shellfish"
+                    "type": "Shellfish"
                 }
             ]
         },
@@ -50,7 +50,7 @@
             "slots": [
                 {
                     "name": "FirstPork",
-                    "type": "pork"
+                    "type": "Pork"
                 }
             ]
         },
